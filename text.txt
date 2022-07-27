@@ -1,0 +1,5 @@
+Build a Todo App
+
+Functionality:
+Taking input from user and add to the list
+create a button with a remove functionality
